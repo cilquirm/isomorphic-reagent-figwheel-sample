@@ -1,0 +1,19 @@
+{
+  "name": "isomorphic",
+  "version": "0.1.0",
+  "private": "true",
+  "engines": {
+    "node": "0.12.x"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "serve-static": "^1.10.2",
+    "ws": "^0.8.1"
+  },
+  "devDependencies": {
+    "source-map-support": "0.4.0",
+    "ws": "0.8.1"
+  }
+}
